@@ -1,5 +1,12 @@
 # rest-api-mysql
 
+Depend
+
+npm init -y
+
+npm install json-server
+
+
 ![image](https://user-images.githubusercontent.com/64655153/168450784-9c16ef81-40b7-4f02-a1d7-26ec91859f82.png)
 
 
