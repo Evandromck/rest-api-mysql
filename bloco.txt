@@ -1,0 +1,26 @@
+*****  O proprio servidor dentro do codigo ****
+
+
+{
+  "name": "rest-api-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+
+** conectando com o server para o javascript conectar com o servidor Heroku ***
+
+
+  {
+  "name": "rest-api-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
